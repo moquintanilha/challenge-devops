@@ -3,7 +3,7 @@ This a simple application.
 
 ## Requirements
 
-- Python >= 2.9
+- Python >= 3.9
 - Install project dependencies
 
 ## Quick start
